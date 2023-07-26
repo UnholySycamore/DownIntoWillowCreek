@@ -1,2 +1,2 @@
-# DownIntoWillowCreek
- My First Game Jam, game jam project
+# Down_Into_Willow_Creek
+ My first game jam, game jam project.
